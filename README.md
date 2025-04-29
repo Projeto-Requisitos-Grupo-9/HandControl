@@ -10,7 +10,9 @@ Link do Padlet: https://padlet.com/viniciussian/kanban-uafrrybncz92z4fy
 ***1.1.  Nome do Grupo***
 
 Indicar o nome e github dos integrantes do grupo
-  Grupo 9
+
+Grupo 9
+
 Integrantes: veterano00, T-Gardelli
 
 ***1.2.  Nome do Sistema***
