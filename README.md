@@ -3,23 +3,26 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/viniciussian/kanban-uafrrybncz92z4fy
 
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
 
 Indicar o nome e github dos integrantes do grupo
+  Grupo 9
+Integrantes: veterano00, T-Gardelli
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+HandControl
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`HandControl`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema `HandControl` é permitir o controle de volume de um dispositivo (como computador ou mídia player) via gestos das mãos
+capturados por uma câmera, oferecendo uma forma mais natural, rápida e acessível de interação com a máquina, especialmente útil para pessoas com dificuldade de usar dispositivos físicos.
 
 ***1.2.  Público Alvo***
 
@@ -27,7 +30,13 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Usuários em geral que buscam mais praticidade;
+
+Pessoas com deficiência motora ou mobilidade reduzida;
+
+Profissionais que trabalham com som/mídia e querem controle por gestos;
+
+Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 ***Personas:***
 
