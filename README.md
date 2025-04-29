@@ -13,7 +13,7 @@ Indicar o nome e github dos integrantes do grupo
 
 Grupo 9
 
-Integrantes: veterano00, T-Gardelli
+Integrantes: veterano00, T-Gardelli, gustavolovizotto, diegocorteL33T, JoaoTrindade1404
 
 ***1.2.  Nome do Sistema***
 
@@ -100,7 +100,7 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+[Link para o excalidraw](https://excalidraw.com/#room=f1d87532f9bbabaea1f4,NYTZh_8ymW2AHqC0TZn36g)
 
 ## Referências
 
