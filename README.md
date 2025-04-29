@@ -4,7 +4,7 @@
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
 Link do Padlet: https://padlet.com/viniciussian/kanban-uafrrybncz92z4fy
-Link para o excalidraw://excalidraw.com/#room=f1d87532f9bbabaea1f4,NYTZh_8ymW2AHqC0TZn36g
+[Link para o excalidraw]( https://excalidraw.com/#room=f1d87532f9bbabaea1f4,NYTZh_8ymW2AHqC0TZn36g)
 
 ## 1. Introdução
 
