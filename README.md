@@ -14,7 +14,7 @@ Indicar o nome e github dos integrantes do grupo
 
 Grupo 9
 
-Integrantes: veterano00, T-Gardelli, gustavolovizotto, diegocorteL33T, JoaoTrindade1404
+Integrantes: veterano00, Tgardelli, gustavolovizotto, diegocorteL33T, JoaoTrindade1404
 
 ***1.2.  Nome do Sistema***
 
