@@ -3,24 +3,34 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-[Link do Padlet](https://padlet.com/viniciussian/kanban-uafrrybncz92z4fy) <br>
-[Link para o excalidraw]( https://excalidraw.com/#room=f1d87532f9bbabaea1f4,NYTZh_8ymW2AHqC0TZn36g)
+🔗[Link do Padlet](https://padlet.com/viniciussian/kanban-uafrrybncz92z4fy) <br>
+🔗[Link para o excalidraw]( https://excalidraw.com/#room=f1d87532f9bbabaea1f4,NYTZh_8ymW2AHqC0TZn36g)
 
-## 1. Introdução
+## 1. 📌Introdução
 
-***1.1.  Nome do Grupo***
+***1.1.  👥Nome do Grupo***
 
 Indicar o nome e github dos integrantes do grupo
 
 Grupo 9
 
-Integrantes: veterano00, Tgardelli, gustavolovizotto, diegocorteL33T, JoaoTrindade1404
+Integrantes:
 
-***1.2.  Nome do Sistema***
+👤 veterano00
+
+👤 Tgardelli
+
+👤 gustavolovizotto
+
+👤 diegocorteL33T
+
+👤 JoaoTrindade1404
+
+***1.2.   💻Nome do Sistema***
 
 HandControl
 
-***1.3.  Propósito do Sistema***
+***1.3.  🎯Propósito do Sistema***
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`HandControl`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
