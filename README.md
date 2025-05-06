@@ -37,11 +37,11 @@ Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela 
 O objetivo do sistema `HandControl` é permitir o controle de volume de um dispositivo (como computador ou mídia player) via gestos das mãos
 capturados por uma câmera, oferecendo uma forma mais natural, rápida e acessível de interação com a máquina, especialmente útil para pessoas com dificuldade de usar dispositivos físicos.
 
-***1.2.  Público Alvo***
+***1.2. 🧑‍💼 Público Alvo***
 
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
 
-***1.3. Descrição dos usuários***
+***1.3. 👤 Descrição dos usuários***
 
 Usuários em geral que buscam mais praticidade;
 
@@ -51,7 +51,7 @@ Profissionais que trabalham com som/mídia e querem controle por gestos;
 
 Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
-***Personas:***
+*** 🎭 Personas:***
 
 *<Imagem, arquivo (PDF), link com as Personas.>*
 
