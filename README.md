@@ -53,7 +53,11 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 *** 🎭 Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+<div>
+<img src="./Screenshot_1.png" >
+  &emsp;
+<img src="./Screenshot_2.png">
+</div>
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
