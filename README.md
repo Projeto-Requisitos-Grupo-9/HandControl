@@ -26,7 +26,7 @@ Integrantes:
 
 👤 JoaoTrindade1404
 
-***1.2.   💻Nome do Sistema***
+💻***1.2.   Nome do Sistema***
 
 HandControl
 
