@@ -71,21 +71,21 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 | Código | Requisito Funcional                              | Descrição                                                                                                         
 |--------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------
-| RU01   | Controle de Volume por Gestos                    | Permitir que o usuário ajuste o volume do dispositivo utilizando gestos.                                           
-| RU02   | Pausar/Retomar Vídeo                             | Permitir que o usuário pause e retome a reprodução de vídeos através de gestos manuais.                             
-| RU03   | Navegação em Mídia via Gestos                    | Permitir que o usuário avance ou retroceda conteúdos de mídia por meio de gestos.                                 
-| RU04   | Processamento em Tempo Real                      | Garantir que o sistema responda de forma imediata aos gestos, com processamento em tempo real.                     
-| RU05   | Mapeamento Personalizado de Gestos               | Permitir que o usuário configure quais gestos executam quais ações, possibilitando mapeamento de comandos.            
-| RU06   | Interface Intuitiva                              | Disponibilizar uma interface de fácil utilização, mesmo para usuários sem conhecimentos técnicos.                
-| RU07   | Feedback Multimídia                              | Fornecer feedback visual ou sonoro cada vez que um gesto for reconhecido pelo sistema.                              
-| RU08   | Ativação/Desativação do Reconhecimento de Gestos | Permitir que o usuário ative ou desative a funcionalidade de reconhecimento de gestos conforme sua preferência.     
-| RU09   | Cadastro de Usuário                              | Permitir que novos usuários se cadastrem no sistema.                                                            
-| RU10   | Autenticação do Usuário                          | Permitir que os usuários efetuem login de forma segura no sistema.                                               
-| RU11   | Cadastro de Gestos Personalizados                | Permitir que o usuário registre gestos próprios para comandos específicos.                                        
-| RU12   | Cadastro de Gestos via Câmera                    | Permitir o cadastro de novos gestos capturados por meio da câmera do dispositivo.                                 
-| RU13   | Controle Sem Mouse/Teclado                        | Habilitar o controle do dispositivo exclusivamente por gestos, dispensando o uso de mouse e teclado.                 
-| RU14   | Perfis de Gestos Customizados                     | Permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
-| RU15   | Central de Ajuda Multimídia                      | Oferecer uma central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.                 
+| RU01   | Controle de Volume por Gestos                    | O Sistema deve permitir que o usuário ajuste o volume do dispositivo utilizando gestos.                                           
+| RU02   | Pausar/Retomar Vídeo                             | O Sistema deve permitir que o usuário pause e retome a reprodução de vídeos através de gestos manuais.                             
+| RU03   | Navegação em Mídia via Gestos                    | O Sistema deve permitir que o usuário avance ou retroceda conteúdos de mídia por meio de gestos.                                 
+| RU04   | Processamento em Tempo Real                      | O Sistema deve garantir resposta de forma imediata aos gestos, com processamento em tempo real.                     
+| RU05   | Mapeamento Personalizado de Gestos               | O Sistema deve permitir que o usuário configure quais gestos executam quais ações, possibilitando mapeamento de comandos.            
+| RU06   | Interface Intuitiva                              | O Sistema deve possuir uma interface de fácil utilização, mesmo para usuários sem conhecimentos técnicos.                
+| RU07   | Feedback Multimídia                              | O Sistema deve fornecer feedback visual ou sonoro cada vez que um gesto for reconhecido pelo sistema.                              
+| RU08   | Ativação/Desativação do Reconhecimento de Gestos | O Sistema deve permitir que o usuário ative ou desative a funcionalidade de reconhecimento de gestos conforme sua preferência.     
+| RU09   | Cadastro de Usuário                              | O Sistema deve permitir que novos usuários se cadastrem no sistema.                                                            
+| RU10   | Autenticação do Usuário                          | O Sistema deve permitir que os usuários efetuem login de forma segura no sistema.                                               
+| RU11   | Cadastro de Gestos Personalizados                | O Sistema deve permitir que o usuário registre gestos próprios para comandos específicos.                                        
+| RU12   | Cadastro de Gestos via Câmera                    | O Sistema deve permitir cadastro de novos gestos pelo usuário, capturados por meio da câmera do dispositivo.                                 
+| RU13   | Controle Sem Mouse/Teclado                       | O Sistema deve permitir que o usuário habilite o controle do dispositivo exclusivamente por gestos, dispensando o uso de mouse e teclado.                 
+| RU14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
+| RU15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.                 
 
 
 ***2.2. Requisitos Não Funcionais***
