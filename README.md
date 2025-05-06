@@ -69,7 +69,19 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+| Código  | Requisito Funcional Formulado                                                                                                                                                                                   |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [RF01]  | O sistema **deve captar** as imagens da câmera **em tempo real com no mínimo 30 FPS** para alimentar o processamento dos gestos.                                                                              |
+| [RF02]  | O sistema **deve utilizar** a biblioteca OpenCV **para capturar e processar** as imagens, realizando o pré-processamento dos dados visuais.                                                                     |
+| [RF03]  | O sistema **deve detectar e reconhecer** os gestos **com uma precisão mínima de 85% e baixa latência** para garantir respostas imediatas.                                                                      |
+| [RF04]  | O sistema **deve mapear** os gestos reconhecidos **aos comandos pré-definidos** que permitam ações como aumentar ou diminuir o volume, pausar, avançar e retroceder vídeos.                                 |
+| [RF05]  | O sistema **deve fornecer** feedback visual e/ou sonoro **imediatamente após a identificação e execução de um gesto** para confirmar a ação executada.                                                     |
+| [RF06]  | O sistema **deve permitir** a configuração e personalização dos gestos e de suas respectivas ações **oferecendo uma interface amigável** para facilitar essa tarefa.                                   |
+| [RF07]  | O sistema **deve emitir** alertas **em caso de falha na captura ou no processamento das imagens** para informar o usuário sobre possíveis problemas operacionais.                                       |
+| [RF08]  | O sistema **deve possibilitar** o cadastro e a autenticação de usuários **por meio de telas de login e registro, incluindo a autenticação via Facebook e Google** para garantir o acesso seguro.          |
+| [RF09]  | O sistema **deve oferecer** um módulo tutorial **com vídeos e áudios explicativos** para auxiliar novos usuários no processo de aprendizagem do uso da plataforma.                                       |
+| [RF10]  | O sistema **deve permitir** a integração **com softwares externos, tais como plataformas educacionais e leitores de tela** para ampliar a inclusão digital dos usuários.                                  |
+| [RF11]  | O sistema **deve registrar e manter** logs **das ações e dos eventos de reconhecimento de gestos** para fins de auditoria e suporte técnico.                                                                 |
 
 ***2.2. Requisitos Não Funcionais***
 
