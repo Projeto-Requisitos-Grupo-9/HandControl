@@ -99,7 +99,8 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | RF12   | Cadastro de Gestos via Câmera                    | O Sistema deve permitir cadastro de novos gestos pelo usuário, capturados por meio da câmera do dispositivo.                                 
 | RF13   | Controle Sem Mouse/Teclado                       | O Sistema deve permitir que o usuário habilite o controle do dispositivo exclusivamente por gestos, dispensando o uso de mouse e teclado.                 
 | RF14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
-| RF15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.                 
+| RF15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.   
+| RF16   | Gestos Predefinidos para Comandos Comuns         | O sistema deve incluir um conjunto de gestos predefinidos para comandos básicos, como pausar/despausar vídeo, ajustar volume e avançar/retroceder mídias, permitindo o uso imediato da aplicação após a instalação
 
 
 ***2.2. Requisitos Não Funcionais***
