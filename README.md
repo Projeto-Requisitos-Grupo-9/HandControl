@@ -85,21 +85,21 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 | Código | Requisito Funcional                              | Descrição                                                                                                         
 |--------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------
-| RU01   | Controle de Volume por Gestos                    | O Sistema deve permitir que o usuário ajuste o volume do dispositivo utilizando gestos.                                           
-| RU02   | Pausar/Retomar Vídeo                             | O Sistema deve permitir que o usuário pause e retome a reprodução de vídeos através de gestos manuais.                             
-| RU03   | Navegação em Mídia via Gestos                    | O Sistema deve permitir que o usuário avance ou retroceda conteúdos de mídia por meio de gestos.                                 
-| RU04   | Processamento em Tempo Real                      | O Sistema deve garantir resposta de forma imediata aos gestos, com processamento em tempo real.                     
-| RU05   | Mapeamento Personalizado de Gestos               | O Sistema deve permitir que o usuário configure quais gestos executam quais ações, possibilitando mapeamento de comandos.            
-| RU06   | Interface Intuitiva                              | O Sistema deve possuir uma interface de fácil utilização, mesmo para usuários sem conhecimentos técnicos.                
-| RU07   | Feedback Multimídia                              | O Sistema deve fornecer feedback visual ou sonoro cada vez que um gesto for reconhecido pelo sistema.                              
-| RU08   | Ativação/Desativação do Reconhecimento de Gestos | O Sistema deve permitir que o usuário ative ou desative a funcionalidade de reconhecimento de gestos conforme sua preferência.     
-| RU09   | Cadastro de Usuário                              | O Sistema deve permitir que novos usuários se cadastrem no sistema.                                                            
-| RU10   | Autenticação do Usuário                          | O Sistema deve permitir que os usuários efetuem login de forma segura no sistema.                                               
-| RU11   | Cadastro de Gestos Personalizados                | O Sistema deve permitir que o usuário registre gestos próprios para comandos específicos.                                        
-| RU12   | Cadastro de Gestos via Câmera                    | O Sistema deve permitir cadastro de novos gestos pelo usuário, capturados por meio da câmera do dispositivo.                                 
-| RU13   | Controle Sem Mouse/Teclado                       | O Sistema deve permitir que o usuário habilite o controle do dispositivo exclusivamente por gestos, dispensando o uso de mouse e teclado.                 
-| RU14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
-| RU15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.                 
+| RF01   | Controle de Volume por Gestos                    | O Sistema deve permitir que o usuário ajuste o volume do dispositivo utilizando gestos.                                           
+| RF02   | Pausar/Retomar Vídeo                             | O Sistema deve permitir que o usuário pause e retome a reprodução de vídeos através de gestos manuais.                             
+| RF03   | Navegação em Mídia via Gestos                    | O Sistema deve permitir que o usuário avance ou retroceda conteúdos de mídia por meio de gestos.                                 
+| RF04   | Processamento em Tempo Real                      | O Sistema deve garantir resposta de forma imediata aos gestos, com processamento em tempo real.                     
+| RF05   | Mapeamento Personalizado de Gestos               | O Sistema deve permitir que o usuário configure quais gestos executam quais ações, possibilitando mapeamento de comandos.            
+| RF06   | Interface Intuitiva                              | O Sistema deve possuir uma interface de fácil utilização, mesmo para usuários sem conhecimentos técnicos.                
+| RF07   | Feedback Multimídia                              | O Sistema deve fornecer feedback visual ou sonoro cada vez que um gesto for reconhecido pelo sistema.                              
+| RF08   | Ativação/Desativação do Reconhecimento de Gestos | O Sistema deve permitir que o usuário ative ou desative a funcionalidade de reconhecimento de gestos conforme sua preferência.     
+| RF09   | Cadastro de Usuário                              | O Sistema deve permitir que novos usuários se cadastrem no sistema.                                                            
+| RF10   | Autenticação do Usuário                          | O Sistema deve permitir que os usuários efetuem login de forma segura no sistema.                                               
+| RF11   | Cadastro de Gestos Personalizados                | O Sistema deve permitir que o usuário registre gestos próprios para comandos específicos.                                        
+| RF12   | Cadastro de Gestos via Câmera                    | O Sistema deve permitir cadastro de novos gestos pelo usuário, capturados por meio da câmera do dispositivo.                                 
+| RF13   | Controle Sem Mouse/Teclado                       | O Sistema deve permitir que o usuário habilite o controle do dispositivo exclusivamente por gestos, dispensando o uso de mouse e teclado.                 
+| RF14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
+| RF15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.                 
 
 
 ***2.2. Requisitos Não Funcionais***
@@ -109,9 +109,9 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | NFR01  | Desempenho                 | O sistema deve realizar o reconhecimento de gestos em tempo real, com tempo de resposta inferior a 100 milissegundos, garantindo fluidez e interatividade.                          | Alta – essencial para a experiência do usuário.             |
 | NFR02  | Usabilidade                | A interface deve ser intuitiva, autoexplicativa e acessível, permitindo que usuários com diferentes níveis de conhecimento consigam operar o sistema sem complexidade.                  | Alta – foco na experiência do usuário.                       |
 | NFR03  | Confiabilidade             | O sistema precisa atingir uma taxa de acerto de reconhecimento superior a 98%, minimizando falsos positivos e negativos, e garantindo consistência na operação.                     | Alta – para assegurar confiança e eficiência.                |
-| NFR04  | Segurança                  | Os dados dos usuários, incluindo configurações e perfis personalizados, devem ser protegidos por criptografia e mecanismos de autenticação robusta, prevenindo acessos não autorizados. | Alta – indispensável para proteger os usuários.              |
+| NFR04  | Resposta imediata                  | O sistema deve processar e executar comandos associados a gestos imediatamente após sua detecção, permitindo controle contínuo e fluido por parte do usuário. | Alta – indispensável para proteger os usuários.              |
 | NFR05  | Compatibilidade            | O sistema deve operar de maneira consistente em diferentes dispositivos e sistemas operacionais, integrando com os recursos (como câmeras e microfones) necessários ao reconhecimento. | Média – importante para alcance e flexibilidade.             |
-| NFR06  | Escalabilidade             | A arquitetura adotada deve permitir a inclusão futura de novos gestos e funcionalidades, sem comprometer o desempenho ou a experiência do usuário.                                  | Média – garantindo evolução sem retrabalho.                  |
+| NFR06  | Assistência             |O sistema deve disponibilizar orientações visuais e dicas contextuais durante a navegação, auxiliando o usuário a compreender e utilizar os recursos do sistema sem necessidade de conhecimento técnico prévio.                                 | Média – garantindo evolução sem retrabalho.                  |
 | NFR07  | Manutenibilidade           | O software deve possuir uma estrutura modular e bem documentada, facilitando manutenções, correções e a implementação de melhorias futuras.                                           | Média – essencial para a longevidade do sistema.             |
 | NFR08  | Portabilidade              | O sistema deve ser adaptável a diversas plataformas (desktop, mobile), com requisitos mínimos de hardware e software bem definidos, para assegurar seu pleno funcionamento.         | Média – amplia o mercado e a flexibilidade.                  |
 | NFR09  | Feedback e Tratamento de Erros | Em casos de falhas ou problemas, o sistema deve fornecer mensagens claras e detalhadas, permitindo que o usuário entenda a causa e, quando possível, receba orientações para a resolução. | Alta – melhora a transparência e suporte.                    |
