@@ -100,6 +100,7 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | RF14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
 | RF15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.   
 | RF16   | Gestos Predefinidos para Comandos Comuns         | O sistema deve incluir um conjunto de gestos predefinidos para comandos básicos, como pausar/despausar vídeo, ajustar volume e avançar/retroceder mídias, permitindo o uso imediato da aplicação após a instalação.
+| RF17   | Gestos Predefinidos para Comandos Comuns         | O sistema deve permitir que o usuário selecione a linguagem de preferência.
 
 
 
