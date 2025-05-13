@@ -100,7 +100,14 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | RF14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
 | RF15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.   
 | RF16   | Gestos Predefinidos para Comandos Comuns         | O sistema deve incluir um conjunto de gestos predefinidos para comandos básicos, como pausar/despausar vídeo, ajustar volume e avançar/retroceder mídias, permitindo o uso imediato da aplicação após a instalação.
-| RF17   | Gestos Predefinidos para Comandos Comuns         | O sistema deve permitir que o usuário selecione a linguagem de preferência.
+| RF17   | Cadastro de Usuário                              | O sistema deve permitir login com conta Google e Facebook.
+| RF18   | Cadastro de Usuário                              | O sistema deve integrar com API Oauth do Google e Facebook.
+| RF19   | Cadastro de Usuário                              | O sistema deve permitir que o usuário consiga recuperar a senha para uso do sistema.
+| RF20   | Redefinição de Senha                             | O sistema deve enviar um e-mail com um link de redefinição de senha para o endereço cadastrado do usuário.
+| RF21   | Gestos Predefinidos para Comandos Comuns         | O sistema deve permitir que o usuário consulte o histórico de gestos realizados.
+
+
+
 
 
 
@@ -119,6 +126,7 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | NFR09  | Feedback e Tratamento de Erros | Em casos de falhas ou problemas, o sistema deve fornecer mensagens claras e detalhadas, permitindo que o usuário entenda a causa e, quando possível, receba orientações para a resolução. | Alta – melhora a transparência e suporte.                    |
 | NFR10  | Eficiência de Recursos     | O software deve otimizar o uso dos recursos computacionais, evitando consumo excessivo de memória e processamento, mesmo em dispositivos com hardware modesto.                        | Alta – para garantir estabilidade mesmo em dispositivos menos robustos. |
 | NFR11  | Compatibilidade    | O software deve ser desenvolvido utilizando a linguagem Python                        | Alta – para garantir a compatibilidade com outras APIs |
+| NFR12  | Desempenho    | O sistema deve utlizar aceleração CUDA                       | Alta – para garantir o processamento em tempo real dos gestos |
 
 
 ***2.3. Perguntas***
