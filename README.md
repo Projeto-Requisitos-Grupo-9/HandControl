@@ -55,7 +55,6 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 <div>
 <img src="./Screenshot_1.png" >
-
 <img src="./Screenshot_2.png">
 </div>
 
