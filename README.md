@@ -105,6 +105,7 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | RF19   | Cadastro de Usuário                              | O sistema deve permitir que o usuário consiga recuperar a senha para uso do sistema.
 | RF20   | Redefinição de Senha                             | O sistema deve enviar um e-mail com um link de redefinição de senha para o endereço cadastrado do usuário.
 | RF21   | Gestos Predefinidos para Comandos Comuns         | O sistema deve permitir que o usuário consulte o histórico de gestos realizados.
+| RF22   | Feedback Multimídia                              | O Sistema deve permitir que o usuário ative e desative feedback visual ou sonoro. 
 
 
 
