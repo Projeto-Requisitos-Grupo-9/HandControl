@@ -99,7 +99,8 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | RF13   | Controle Sem Mouse/Teclado                       | O Sistema deve permitir que o usuário habilite o controle do dispositivo exclusivamente por gestos, dispensando o uso de mouse e teclado.                 
 | RF14   | Perfis de Gestos Customizados                    | O Sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou para diferentes perfis de usuário.       
 | RF15   | Central de Ajuda Multimídia                      | O Sistema deve oferecer central de ajuda integrada com FAQs e suporte visual ou sonoro para auxiliar o usuário.   
-| RF16   | Gestos Predefinidos para Comandos Comuns         | O sistema deve incluir um conjunto de gestos predefinidos para comandos básicos, como pausar/despausar vídeo, ajustar volume e avançar/retroceder mídias, permitindo o uso imediato da aplicação após a instalação
+| RF16   | Gestos Predefinidos para Comandos Comuns         | O sistema deve incluir um conjunto de gestos predefinidos para comandos básicos, como pausar/despausar vídeo, ajustar volume e avançar/retroceder mídias, permitindo o uso imediato da aplicação após a instalação.
+
 
 
 ***2.2. Requisitos Não Funcionais***
@@ -116,6 +117,7 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 | NFR08  | Portabilidade              | O sistema deve ser adaptável a diversas plataformas (desktop, mobile), com requisitos mínimos de hardware e software bem definidos, para assegurar seu pleno funcionamento.         | Média – amplia o mercado e a flexibilidade.                  |
 | NFR09  | Feedback e Tratamento de Erros | Em casos de falhas ou problemas, o sistema deve fornecer mensagens claras e detalhadas, permitindo que o usuário entenda a causa e, quando possível, receba orientações para a resolução. | Alta – melhora a transparência e suporte.                    |
 | NFR10  | Eficiência de Recursos     | O software deve otimizar o uso dos recursos computacionais, evitando consumo excessivo de memória e processamento, mesmo em dispositivos com hardware modesto.                        | Alta – para garantir estabilidade mesmo em dispositivos menos robustos. |
+| NFR11  | Compatibilidade    | O software deve ser desenvolvido utilizando a linguagem Python                        | Alta – para garantir a compatibilidade com outras APIs |
 
 
 ***2.3. Perguntas***
