@@ -132,7 +132,98 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+# Questionário sobre Uso de Tecnologias e Acessibilidade
+
+## 1. Abertura e contexto
+
+**1.1.** Você poderia nos contar um pouco sobre sua rotina com o uso de computadores ou dispositivos eletrônicos?  
+*(Aberta)*
+
+**1.2.** Com que frequência você utiliza computador no seu dia a dia?  
+☐ Nunca ☐ Raramente ☐ Às vezes ☐ Frequentemente ☐ Sempre  
+*(Fechada – múltipla escolha)*
+
+**1.3.** Você já utilizou algum recurso de acessibilidade no computador ou celular, como leitores de tela ou comandos de voz?  
+☐ Sim ☐ Não  
+Se sim, qual?  
+*(Fechada + Aberta)*
+
+**1.4.** Em que momentos do seu dia você costuma usar dispositivos eletrônicos?  
+*(Aberta)*
+
+---
+
+## 2. Desafios e necessidades
+
+**2.1.** Quais são as principais dificuldades que você enfrenta ao utilizar um teclado ou mouse comum?  
+*(Aberta)*
+
+**2.2.** Você já utilizou algum software de acessibilidade? Se sim, qual?  
+*(Aberta)*
+
+**2.3.** Você sentiria segurança em usar um sistema que detecta gestos pela webcam para controlar o computador?  
+☐ Sim ☐ Não  
+Explique:  
+*(Fechada – Sim/Não + Aberta)*
+
+**2.4.** Em alguma situação você já deixou de realizar alguma tarefa no computador por causa de dificuldade de uso? Qual?  
+*(Aberta)*
+
+**2.5.** Que tipo de ajuda você costuma buscar quando encontra dificuldades ao usar o computador?  
+☐ Procuro tutoriais na internet  
+☐ Peço ajuda a alguém próximo  
+☐ Tento resolver sozinho  
+☐ Outro: ___________  
+*(Fechada – múltipla escolha)*
+
+---
+
+## 3. Preferências e expectativas
+
+**3.1.** Quais funções do computador você considera mais importantes no seu dia a dia?  
+☐ Acesso à internet  
+☐ Leitura de e-mails  
+☐ Redes sociais  
+☐ Jogos  
+☐ Assistir vídeos  
+☐ Outros: ___________  
+*(Fechada – múltipla escolha)*
+
+**3.2.** O que você esperaria de um sistema de acessibilidade como o HandControl?  
+*(Aberta)*
+
+**3.3.** Você prefere usar o computador com mouse e teclado ou acha que sistemas alternativos (como por gestos) poderiam ser mais fáceis? Por quê?  
+*(Aberta)*
+
+**3.4.** Que características você considera essenciais em um sistema de acessibilidade (como o HandControl)?  
+☐ Facilidade de uso  
+☐ Segurança  
+☐ Compatibilidade com outros programas  
+☐ Customização  
+☐ Outro: ___________  
+*(Fechada – múltipla escolha)*
+
+---
+
+## 4. Interface e usabilidade
+
+**4.1.** Você se sente confortável em utilizar a webcam do computador?  
+☐ Sim ☐ Não  
+*(Fechada)*
+
+**4.2.** Como você prefere receber instruções de uso de um novo software?  
+☐ Manual escrito  
+☐ Vídeo tutorial  
+☐ Passo a passo com imagens  
+☐ Treinamento prático  
+*(Fechada – múltipla escolha)*
+
+**4.3.** Você teria dificuldades em realizar movimentos com as mãos na frente da webcam para controlar o computador? Por quê?  
+*(Aberta)*
+
+**4.4.** Você já usou algum aplicativo ou jogo que utilizasse a câmera para captar movimentos? Como foi essa experiência?  
+*(Aberta)*
+
 
 ***2.4. Entrevista***
 
