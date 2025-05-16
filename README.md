@@ -58,25 +58,69 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 <img src="./Screenshot_2.png">
 </div>
 
-***Análise da situação atual: antes da introdução de sua solução***
+# 📘 Estudo de Cenários - HandControl
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+## 🔍 Análise da situação atual: antes da introdução de sua solução
 
-***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
+**1. O que as pessoas fazem?**  
+Elas usam teclado e mouse convencionais para executar atividades no computador.
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+**2. Quais os artefatos envolvidos?**  
+Teclado, mouse, softwares gráficos, sistemas operacionais, aplicativos de produtividade.
 
-***Cenário: Antes***
+**3. O que elas precisam saber?**  
+Como usar dispositivos de entrada convencionais (teclado/mouse), comandos de software, atalhos de produtividade, ergonomia.
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+---
 
-***Cenário: Depois***
+## 🔄 Análise das tarefas depois: como serão executadas as suas tarefas com sua solução
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+**1. O que as pessoas fazem?**  
+Controlam o computador por meio de gestos captados pela webcam, usando o sistema HandControl.
+
+**2. Quais os artefatos envolvidos?**  
+Webcam, sistema HandControl, softwares gráficos ou de trabalho adaptados.
+
+**3. O que elas precisam saber?**  
+Gestos compatíveis com o sistema, como configurar e usar o HandControl, noções básicas de acessibilidade digital.
+
+---
+
+## 🎭 Cenário: Antes
+
+### 👨‍💻 Lucas Menezes
+
+Lucas é um designer gráfico que passa muitas horas em frente ao computador utilizando programas como Adobe Photoshop, Illustrator e After Effects. Ele costuma alternar frequentemente entre ferramentas e janelas com o uso de teclado e mouse, o que exige movimentos repetitivos. Lucas sente que o excesso dessas ações impacta sua produtividade e provoca desconfortos físicos, como dores nos punhos.
+
+Ele tenta resolver isso criando atalhos e usando softwares de automação, mas nem sempre os resultados são eficientes. Lucas se sente frustrado principalmente quando os softwares não respondem com precisão aos comandos, o que atrasa seu fluxo criativo.
+
+---
+
+### 👩‍💻 Isabela Duarte
+
+Isabela é uma programadora Fullstack e Mobile que trabalha com demandas intensas de codificação. Ela utiliza teclado e mouse durante longas jornadas, mas sofre com uma leve lesão por esforço repetitivo (LER), o que torna a digitação e uso contínuo do mouse dolorosos. Mesmo assim, ela precisa cumprir prazos rigorosos e realizar testes frequentes no computador.
+
+Isabela já tentou usar soluções de acessibilidade, como ditado por voz e atalhos de teclado personalizados, mas sentiu que não se adaptavam bem à sua rotina. Ela se sente limitada e, às vezes, com receio de piorar sua condição de saúde.
+
+---
+
+## ✨ Cenário: Depois
+
+### 👨‍💻 Lucas Menezes
+
+Lucas agora utiliza o sistema HandControl, que permite controlar funções do computador através de gestos realizados diante da webcam. Ao configurar gestos personalizados para alternar entre ferramentas, aplicar comandos e até acionar automações, ele consegue manter o foco criativo sem interrupções físicas. A produtividade de Lucas aumenta, e ele relata menos dores e maior fluidez em seu trabalho.
+
+Além disso, o sistema se adapta aos seus hábitos, possibilitando que ele personalize comandos conforme seu fluxo de trabalho em softwares gráficos.
+
+---
+
+### 👩‍💻 Isabela Duarte
+
+Isabela adota o HandControl como alternativa ergonômica para codificação e testes. Ao usar gestos simples para executar comandos frequentes, ela reduz consideravelmente o uso contínuo do teclado e do mouse, aliviando os sintomas da LER. Ela também valoriza a interface inclusiva do sistema, que oferece feedback visual dos gestos reconhecidos.
+
+Agora, Isabela sente que pode trabalhar com mais conforto e segurança, mantendo sua produtividade sem comprometer a saúde. Ela até colabora no desenvolvimento de novas funcionalidades do sistema, sugerindo melhorias com base em sua experiência como desenvolvedora.
+
+---
 
 ## 2. Documentos gerais no repositório
 
