@@ -185,97 +185,135 @@ Agora, Isabela sente que pode trabalhar com mais conforto e segurança, mantendo
 
 ***2.3. Perguntas***
 
-# Questionário sobre Uso de Tecnologias e Acessibilidade
+# Roteiro Simplificado de Entrevista – HandControl
 
-## 1. Abertura e contexto
+## 1. Sobre o uso de tecnologia
 
-**1.1.** Você poderia nos contar um pouco sobre sua rotina com o uso de computadores ou dispositivos eletrônicos?  
-*(Aberta)*
+1.1. Você pode nos contar um pouco sobre como usa computadores ou celulares no dia a dia?  
+(Aberta)
 
-**1.2.** Com que frequência você utiliza computador no seu dia a dia?  
-☐ Nunca ☐ Raramente ☐ Às vezes ☐ Frequentemente ☐ Sempre  
-*(Fechada – múltipla escolha)*
+1.2. Com que frequência você usa computador?  
+☐ Nunca ☐ Raramente ☐ Às vezes ☐ Frequentemente ☐ Sempre
 
-**1.3.** Você já utilizou algum recurso de acessibilidade no computador ou celular, como leitores de tela ou comandos de voz?  
+1.3. Já usou algum recurso de acessibilidade, como comandos de voz ou leitores de tela?  
 ☐ Sim ☐ Não  
-Se sim, qual?  
-*(Fechada + Aberta)*
+Se sim, qual? (Aberta)
 
-**1.4.** Em que momentos do seu dia você costuma usar dispositivos eletrônicos?  
-*(Aberta)*
+1.4. Em que momentos do dia você costuma usar dispositivos eletrônicos?  
+(Aberta)
 
 ---
 
-## 2. Desafios e necessidades
+## 2. Dificuldades e necessidades
 
-**2.1.** Quais são as principais dificuldades que você enfrenta ao utilizar um teclado ou mouse comum?  
-*(Aberta)*
+2.1. Quais dificuldades você tem ao usar mouse ou teclado?  
+(Aberta)
 
-**2.2.** Você já utilizou algum software de acessibilidade? Se sim, qual?  
-*(Aberta)*
+2.2. Já usou algum software de acessibilidade? Qual?  
+(Aberta)
 
-**2.3.** Você sentiria segurança em usar um sistema que detecta gestos pela webcam para controlar o computador?  
+2.3. Você se sentiria seguro usando um sistema que reconhece gestos pela webcam?  
 ☐ Sim ☐ Não  
-Explique:  
-*(Fechada – Sim/Não + Aberta)*
+Por quê? (Aberta)
 
-**2.4.** Em alguma situação você já deixou de realizar alguma tarefa no computador por causa de dificuldade de uso? Qual?  
-*(Aberta)*
+2.4. Já deixou de fazer alguma tarefa no computador por dificuldade de uso? Qual?  
+(Aberta)
 
-**2.5.** Que tipo de ajuda você costuma buscar quando encontra dificuldades ao usar o computador?  
+2.5. O que você costuma fazer quando tem dificuldades no computador?  
 ☐ Procuro tutoriais na internet  
-☐ Peço ajuda a alguém próximo  
+☐ Peço ajuda a alguém  
 ☐ Tento resolver sozinho  
-☐ Outro: ___________  
-*(Fechada – múltipla escolha)*
+☐ Outro: ___________
 
 ---
 
 ## 3. Preferências e expectativas
 
-**3.1.** Quais funções do computador você considera mais importantes no seu dia a dia?  
+3.1. Quais dessas funções você mais usa no computador?  
 ☐ Acesso à internet  
-☐ Leitura de e-mails  
+☐ E-mails  
 ☐ Redes sociais  
 ☐ Jogos  
-☐ Assistir vídeos  
-☐ Outros: ___________  
-*(Fechada – múltipla escolha)*
+☐ Vídeos  
+☐ Outros: ___________
 
-**3.2.** O que você esperaria de um sistema de acessibilidade como o HandControl?  
-*(Aberta)*
+3.2. O que você esperaria de um sistema como o HandControl?  
+(Aberta)
 
-**3.3.** Você prefere usar o computador com mouse e teclado ou acha que sistemas alternativos (como por gestos) poderiam ser mais fáceis? Por quê?  
-*(Aberta)*
+3.3. Você prefere usar mouse/teclado ou acha que o controle por gestos seria mais fácil? Por quê?  
+(Aberta)
 
-**3.4.** Que características você considera essenciais em um sistema de acessibilidade (como o HandControl)?  
+3.4. Quais dessas características são mais importantes em um sistema de acessibilidade?  
 ☐ Facilidade de uso  
 ☐ Segurança  
-☐ Compatibilidade com outros programas  
-☐ Customização  
-☐ Outro: ___________  
-*(Fechada – múltipla escolha)*
+☐ Compatibilidade com programas  
+☐ Personalização  
+☐ Outro: ___________
 
 ---
 
 ## 4. Interface e usabilidade
 
-**4.1.** Você se sente confortável em utilizar a webcam do computador?  
-☐ Sim ☐ Não  
-*(Fechada)*
+4.1. Você se sente confortável em usar a webcam do computador?  
+☐ Sim ☐ Não
 
-**4.2.** Como você prefere receber instruções de uso de um novo software?  
+4.2. Como prefere aprender a usar um novo software?  
 ☐ Manual escrito  
 ☐ Vídeo tutorial  
 ☐ Passo a passo com imagens  
-☐ Treinamento prático  
-*(Fechada – múltipla escolha)*
+☐ Treinamento prático
 
-**4.3.** Você teria dificuldades em realizar movimentos com as mãos na frente da webcam para controlar o computador? Por quê?  
-*(Aberta)*
+4.3. Você teria dificuldade para fazer gestos com a mão na frente da câmera? Por quê?  
+(Aberta)
 
-**4.4.** Você já usou algum aplicativo ou jogo que utilizasse a câmera para captar movimentos? Como foi essa experiência?  
-*(Aberta)*
+4.4. Já usou algum app ou jogo com reconhecimento de movimento pela câmera? Como foi?  
+(Aberta)
+
+---
+
+## 5. Priorização de Funcionalidades (RF)
+
+> Use a escala **MoSCoW** para indicar a prioridade:  
+> - **M (Must)**: Essencial  
+> - **S (Should)**: Importante  
+> - **C (Could)**: Opcional  
+> - **W (Won’t)**: Não necessário
+
+5.1. Controle de Volume por Gestos (RF01): [M/S/C/W]  
+5.2. Pausar/Retomar Vídeo por Gestos (RF02): [M/S/C/W]  
+5.3. Mapeamento Personalizado de Gestos (RF05): [M/S/C/W]  
+5.4. Cadastro de Gestos via Câmera (RF12): [M/S/C/W]  
+5.5. Login com Conta Google/Facebook (RF17): [M/S/C/W]  
+5.6. Histórico de Gestos Realizados (RF21): [M/S/C/W]  
+5.7. Outro recurso importante? Qual? (Aberta)
+
+---
+
+## 6. Priorização de Requisitos Não Funcionais (NFR)
+
+> Avalie a importância de cada item de 1 (nada importante) a 5 (muito importante):
+
+6.1. Resposta rápida do sistema: [1–5]  
+6.2. Interface simples e acessível: [1–5]  
+6.3. Segurança e privacidade: [1–5]  
+6.4. Funcionar em diferentes dispositivos: [1–5]  
+6.5. Usar em desktop e mobile: [1–5]  
+6.6. Suporte a mais de um idioma: [1–5]  
+6.7. Backup e restauração de configurações: [1–5]
+
+---
+
+## 7. Considerações Finais
+
+7.1. Qual funcionalidade é mais essencial para você? Por quê?  
+(Aberta)
+
+7.2. Tem alguma funcionalidade que você considera desnecessária?  
+(Aberta)
+
+7.3. Gostaria de deixar mais algum comentário ou sugestão?  
+(Aberta)
+
 
 
 ***2.4. Entrevista***
