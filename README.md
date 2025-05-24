@@ -150,6 +150,8 @@ Agora, Isabela sente que pode trabalhar com mais conforto e segurança, mantendo
 | RF20   | Redefinição de Senha                             | O sistema deve enviar um e-mail com link de redefinição de senha ao usuário.                                     | RF19                                                                                           |                 M            |
 | RF21   | Histórico de Gestos Realizados                   | O sistema deve permitir que o usuário consulte o histórico de gestos realizados.                                | RF04                                                                                           |                  C           |
 | RF22   | Ativar/Desativar Feedback Multimídia             | O sistema deve permitir que o usuário ative ou desative o feedback visual ou sonoro.                            | RF07                                                                                           |                  C          |
+| RF23   | Autenticação de Usuario                         | O sistema deve permitir que usuários efetuem login por reconhecimento facial.                                              | RF09                                                                                           |                 M            |
+| RF24   | Autenticação de Usuario                         | O sistema deve permitir que usuários efetuem login por reconhecimento de voz.                                              | RF09                                                                                           |                 M            |
 
 
 
