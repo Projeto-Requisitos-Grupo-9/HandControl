@@ -34,7 +34,7 @@ HandControl
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`HandControl`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `HandControl` é permitir o controle de volume de um dispositivo (como computador ou mídia player) via gestos das mãos
+O objetivo do sistema `HandControl` é permitir o controle de ações de um dispositivo (como computador ou celular) via gestos das mãos
 capturados por uma câmera, oferecendo uma forma mais natural, rápida e acessível de interação com a máquina, especialmente útil para pessoas com dificuldade de usar dispositivos físicos.
 
 ***1.2. 🧑‍💼 Público Alvo***
