@@ -37,11 +37,11 @@ Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela 
 O objetivo do sistema `HandControl` é permitir o controle de ações de um dispositivo (como computador ou celular) via gestos das mãos
 capturados por uma câmera, oferecendo uma forma mais natural, rápida e acessível de interação com a máquina, especialmente útil para pessoas com dificuldade de usar dispositivos físicos.
 
-***1.2. 🧑‍💼 Público Alvo***
+***1.4. 🧑‍💼 Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes.
 
-***1.3. 👤 Descrição dos usuários***
+***1.5. 👤 Descrição dos usuários***
 
 Usuários em geral que buscam mais praticidade;
 
@@ -201,9 +201,6 @@ Agora, Isabela sente que pode trabalhar com mais conforto e segurança, mantendo
 ☐ Sim ☐ Não  
 Se sim, qual? (Aberta)
 
-1.4. Em que momentos do dia você costuma usar dispositivos eletrônicos?  
-(Aberta)
-
 ---
 
 ## 2. Dificuldades e necessidades
@@ -231,21 +228,13 @@ Por quê? (Aberta)
 
 ## 3. Preferências e expectativas
 
-3.1. Quais dessas funções você mais usa no computador?  
-☐ Acesso à internet  
-☐ E-mails  
-☐ Redes sociais  
-☐ Jogos  
-☐ Vídeos  
-☐ Outros: ___________
-
-3.2. O que você esperaria de um sistema como o HandControl?  
+3.1. O que você esperaria de um sistema como o HandControl?  
 (Aberta)
 
-3.3. Você prefere usar mouse/teclado ou acha que o controle por gestos seria mais fácil? Por quê?  
+3.2. Você prefere usar mouse/teclado ou acha que o controle por gestos seria mais fácil? Por quê?  
 (Aberta)
 
-3.4. Quais dessas características são mais importantes em um sistema de acessibilidade?  
+3.3. Quais dessas características são mais importantes em um sistema de acessibilidade?  
 ☐ Facilidade de uso  
 ☐ Segurança  
 ☐ Compatibilidade com programas  
@@ -259,16 +248,10 @@ Por quê? (Aberta)
 4.1. Você se sente confortável em usar a webcam do computador?  
 ☐ Sim ☐ Não
 
-4.2. Como prefere aprender a usar um novo software?  
-☐ Manual escrito  
-☐ Vídeo tutorial  
-☐ Passo a passo com imagens  
-☐ Treinamento prático
-
-4.3. Você teria dificuldade para fazer gestos com a mão na frente da câmera? Por quê?  
+4.2. Você teria dificuldade para fazer gestos com a mão na frente da câmera? Por quê?  
 (Aberta)
 
-4.4. Já usou algum app ou jogo com reconhecimento de movimento pela câmera? Como foi?  
+4.3. Já usou algum app ou jogo com reconhecimento de movimento pela câmera? Como foi?  
 (Aberta)
 
 ---
