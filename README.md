@@ -303,7 +303,12 @@ Por quê? (Aberta)
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+[🔗 Ver Entrevista no Google Drive](https://drive.google.com/file/d/1_38xa8RQHDIcWjzBDP3dSNnYS1Yyim1r/view?usp=sharing)
+
+[🔗Acesse a entrevista por escrito](./Entrevista%20por%20escrito.pdf)
+
+
+
 
 ***2.5. Histórias do Usuário***
 
