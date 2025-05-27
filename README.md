@@ -138,8 +138,8 @@ Agora, Isabela sente que pode trabalhar com mais conforto e segurança, mantendo
 | RF08   | Ativação/Desativação do Reconhecimento de Gestos | O sistema deve permitir que o usuário ative ou desative o reconhecimento de gestos conforme sua preferência.    | RF04                                                                                           |                 M            |
 | RF09   | Cadastro de Usuário                              | O sistema deve permitir que novos usuários se cadastrem.                                                         | —                                                                                              |                M             |
 | RF10   | Autenticação do Usuário                          | O sistema deve permitir que usuários efetuem login de forma segura.                                              | RF09                                                                                           |                 M            |
-| RF11   | Cadastro de Gestos Personalizados                | O sistema deve permitir que o usuário registre gestos próprios para comandos específicos.                       | RF12                                                                                           |                  M           |
-| RF12   | Cadastro de Gestos via Câmera                    | O sistema deve permitir que o usuário cadastre novos gestos capturados por meio da câmera do dispositivo.       | —                                                                                              |                  M           |
+| RF11   | Cadastro de Gestos Personalizados                | O sistema deve permitir que o usuário registre gestos próprios por meio de imagens para comandos específicos.    | RF12                                                                                           |                  M           |
+| RF12   | Cadastro de Gestos via Câmera                    | O sistema deve permitir que o usuário cadastre novos gestos capturados por meio da câmera do dispositivo.       | —                                                                                        |                  M           |
 | RF13   | Controle Sem Mouse/Teclado                       | O sistema deve permitir que o usuário controle o dispositivo exclusivamente por gestos, sem mouse ou teclado.   | RF01, RF02, RF03, RF04, RF05, RF16                                                             |                 M            |
 | RF14   | Perfis de Gestos Customizados                    | O sistema deve permitir que o usuário salve perfis de gestos para diferentes atividades ou perfis de usuário.   | RF05, RF09, RF10                                                                               |                 C            |
 | RF15   | Central de Ajuda Multimídia                      | O sistema deve oferecer uma central de ajuda com FAQs e suporte visual ou sonoro para auxiliar o usuário.       | RF01–RF05, RF13, RF14, RF16                                                                    |                 S            |
@@ -312,7 +312,78 @@ Por quê? (Aberta)
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+## RF01 – Controle de Volume por Gestos
+**Como** usuário, **eu quero** ajustar o volume do dispositivo utilizando gestos **de modo que** eu possa aumentar ou diminuir o som sem tocar no aparelho **porque** isso facilita o controle em situações onde o toque não é conveniente.
+
+## RF02 – Pausar/Retomar Vídeo
+**Como** usuário, **eu quero** pausar e retomar vídeos por meio de gestos **de modo que** eu controle a reprodução de conteúdo facilmente **porque** isso torna o uso mais prático e acessível.
+
+## RF03 – Navegação em Mídia via Gestos
+**Como** usuário, **eu quero** avançar ou retroceder conteúdos de mídia usando gestos **de modo que** eu navegue entre cenas ou faixas com facilidade **porque** isso agiliza a interação sem precisar de controle físico.
+
+## RF04 – Processamento em Tempo Real
+**Como** usuário, **eu quero** que os gestos sejam processados em tempo real **de modo que** o sistema responda imediatamente aos comandos **porque** isso melhora a experiência de uso e evita atrasos.
+
+## RF05 – Mapeamento Personalizado de Gestos
+**Como** usuário, **eu quero** configurar quais gestos executam quais ações **de modo que** eu personalize a forma de controlar o dispositivo **porque** isso torna o sistema mais adaptado às minhas preferências.
+
+## RF06 – Interface Intuitiva
+**Como** usuário, **eu quero** que o sistema mostre dicas visuais e orientações **de modo que** eu entenda como usar os gestos **porque** isso facilita o aprendizado e uso, mesmo sem conhecimento técnico.
+
+## RF07 – Feedback Multimídia
+**Como** usuário, **eu quero** receber feedback visual ou sonoro ao realizar um gesto **de modo que** eu saiba que o comando foi reconhecido **porque** isso me dá uma confirmação sobre a execução da ação.
+
+## RF08 – Ativação/Desativação do Reconhecimento de Gestos
+**Como** usuário, **eu quero** ativar ou desativar o reconhecimento de gestos **de modo que** eu tenha controle sobre quando o sistema está ouvindo gestos **porque** isso evita comandos indesejados.
+
+## RF09 – Cadastro de Usuário
+**Como** novo usuário, **eu quero** me cadastrar no sistema **de modo que** eu possa acessar e configurar meus dados **porque** isso é necessário para personalizar minha experiência.
+
+## RF10 – Autenticação do Usuário
+**Como** usuário cadastrado, **eu quero** fazer login de forma segura **de modo que** meus dados e configurações sejam protegidos **porque** isso garante privacidade e segurança.
+
+## RF11 – Cadastro de Gestos Personalizados
+**Como** usuário, **eu quero** cadastrar meus próprios gestos por meio de imagens associadas a comandos específicos,**de modo que** o sistema reconheça e execute ações com base nesses gestos personalizados, **porque** isso facilita a personalização e usabilidade.
+
+## RF12 – Cadastro de Gestos via Câmera
+**Como** usuário, **eu quero** cadastrar novos gestos usando a câmera do dispositivo **de modo que** o sistema aprenda meus movimentos **porque** isso permite mais liberdade e customização.
+
+## RF13 – Controle Sem Mouse/Teclado
+**Como** usuário, **eu quero** controlar o dispositivo apenas com gestos **de modo que** eu não precise de mouse ou teclado **porque** isso oferece uma experiência mais acessível e moderna.
+
+## RF14 – Perfis de Gestos Customizados
+**Como** usuário, **eu quero** salvar perfis de gestos diferentes para diversas atividades ou perfis de uso **de modo que** eu possa alternar facilmente entre eles **porque** isso facilita a adaptação a diferentes contextos.
+
+## RF15 – Central de Ajuda Multimídia
+**Como** usuário, **eu quero** acessar uma central de ajuda com FAQs e vídeos/som **de modo que** eu tire dúvidas facilmente **porque** isso me auxilia no uso do sistema sem depender de suporte técnico.
+
+## RF16 – Gestos Predefinidos para Comandos Comuns
+**Como** usuário, **eu quero** usar gestos predefinidos para ações como pausar vídeo ou ajustar volume **de modo que** eu já tenha comandos prontos para uso **porque** isso acelera o aprendizado e a interação.
+
+## RF17 – Login com Conta Google e Facebook
+**Como** usuário, **eu quero** fazer login com minha conta do Google ou Facebook **de modo que** eu acesse o sistema rapidamente **porque** isso evita criar uma nova senha e agiliza o acesso.
+
+## RF18 – Integração com API OAuth
+**Como** sistema, **eu quero** integrar com a API OAuth **de modo que** usuários possam autenticar com contas externas **porque** isso melhora a conveniência e segurança.
+
+## RF19 – Recuperação de Senha
+**Como** usuário, **eu quero** solicitar recuperação de senha **de modo que** eu recupere o acesso ao sistema **porque** posso esquecer minha senha.
+
+## RF20 – Redefinição de Senha
+**Como** usuário, **eu quero** receber um e-mail com link para redefinir minha senha **de modo que** eu possa criar uma nova **porque** isso me ajuda a voltar a acessar minha conta.
+
+## RF21 – Histórico de Gestos Realizados
+**Como** usuário, **eu quero** consultar o histórico de gestos realizados **de modo que** eu veja quais comandos usei e quando **porque** isso ajuda no acompanhamento e correções.
+
+## RF22 – Ativar/Desativar Feedback Multimídia
+**Como** usuário, **eu quero** ativar ou desativar feedback visual ou sonoro **de modo que** eu ajuste a resposta do sistema conforme minha preferência **porque** isso melhora minha experiência.
+
+## RF23 – Autenticação por Reconhecimento Facial
+**Como** usuário, **eu quero** fazer login por reconhecimento facial **de modo que** o acesso seja automático e seguro **porque** isso elimina a necessidade de digitar senhas.
+
+## RF24 – Autenticação por Reconhecimento de Voz
+**Como** usuário, **eu quero** fazer login por reconhecimento de voz **de modo que** o acesso seja mais prático **porque** isso oferece uma alternativa segura sem senha.
+
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
