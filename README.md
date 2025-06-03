@@ -399,7 +399,7 @@ Por quê? (Aberta)
 
 ***2.9. Protótipos***
 
-prototipo não existe 0-0
+[Protótipo Hand Control](https://ninjamock.com/s/8Q4R7Lx)
 
 ## Referências
 
