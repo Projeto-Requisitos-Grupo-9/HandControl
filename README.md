@@ -39,7 +39,7 @@ capturados por uma câmera, oferecendo uma forma mais natural, rápida e acessí
 
 ***1.4. 🧑‍💼 Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes.
+Este documento se destina a arquitetos e engenheiros de software, testadores e stakeholders.
 
 ***1.5. 👤 Descrição dos usuários***
 
