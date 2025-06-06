@@ -53,10 +53,6 @@ Pessoas interessadas em tecnologias inovadoras e interfaces naturais.
 
 *** 🎭 Personas:***
 
-<div>
-<img src="./Screenshot_1.png" >
-<img src="./Screenshot_2.png">
-</div>
 
 # 📘 Estudo de Cenários - HandControl
 
@@ -387,11 +383,15 @@ Por quê? (Aberta)
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+<div>
+<img src="./Diagrama de caso de usio.jpg" >
+</div>
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+<div>
+<img src="./Diagrama de atividade.jpg" >
+</div>
 
 ***2.8. Matrizes de Rastreabilidade***
 
