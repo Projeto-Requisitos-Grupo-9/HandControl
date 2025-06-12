@@ -393,6 +393,12 @@ Por quê? (Aberta)
 <img src="./Diagrama de atividade.jpg" >
 </div>
 
+***2.8. Diagrama de classe***
+
+<div>
+<img src="./Diagrama_de_Classes.png" >
+</div>
+
 ***2.8. Matrizes de Rastreabilidade***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
