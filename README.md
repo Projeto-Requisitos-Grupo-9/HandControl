@@ -401,7 +401,7 @@ Por quê? (Aberta)
 #### RF28 – Configuração de Sensibilidade
 **Como** usuário, **eu quero** encontrar uma opção nas configurações para ajustar a sensibilidade do reconhecimento de gestos (ex: "Preciso" ou "Relaxado"), **de modo que** o sistema se adapte melhor à minha maneira de gesticular, **porque** isso torna a experiência de uso mais confortável e precisa para mim.
 
-#### RF39 – Seleção de Dispositivo de Câmera
+#### RF29 – Seleção de Dispositivo de Câmera
 **Como** usuário que possui múltiplas câmeras, **eu quero** poder selecionar qual câmera o sistema deve usar, **de modo que** eu possa escolher a que estiver melhor posicionada, **porque** isso me dá flexibilidade e garante a melhor captura de imagem possível.
 
 
