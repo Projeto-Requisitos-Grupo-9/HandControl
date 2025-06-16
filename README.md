@@ -39,7 +39,7 @@ capturados por uma câmera, oferecendo uma forma mais natural, rápida e acessí
 
 ***1.4. 🧑‍💼 Público Alvo***
 
-Este documento se destina a arquitetos e engenheiros de software, testadores e stakeholders.
+Pessoas com limitações motoras e usuários que buscam formas alternativas e acessíveis de interação com dispositivos.
 
 ***1.5. 👤 Descrição dos usuários***
 
