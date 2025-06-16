@@ -426,7 +426,7 @@ Por quê? (Aberta)
 <img src="./Diagrama_de_Classes.png" >
 </div>
 
-***2.8. Matrizes de Rastreabilidade***
+***2.9. Matrizes de Rastreabilidade***
 
 # Matriz de Rastreabilidade
 
@@ -464,7 +464,7 @@ Por quê? (Aberta)
 | RF30  | Seleção de Dispositivo de Câmera                                          | MÉDIA (S)   | —                       | Melhorar compatibilidade com setups diversos             | Teste de UI, Teste de Integração              | O sistema lista as câmeras disponíveis e utiliza a que foi selecionada                           |
 
 
-***2.9. Protótipos***
+***3.0. Protótipos***
 
 [Protótipo Hand Control](https://ninjamock.com/s/8Q4R7Lx)
 
