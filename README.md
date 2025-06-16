@@ -371,40 +371,37 @@ Por quê? (Aberta)
 #### RF18 – Integração com API OAuth
 **Como** sistema, **eu quero** integrar com a API OAuth, **de modo que** usuários possam autenticar com contas externas, **porque** isso melhora a conveniência e segurança.
 
-#### RF19 – Recuperação de Senha
-**Como** usuário, **eu quero** solicitar recuperação de senha, **de modo que** eu recupere o acesso ao sistema, **porque** posso esquecer minha senha.
-
-#### RF20 – Redefinição de Senha
+#### RF19 – Redefinição de Senha
 **Como** usuário, **eu quero** receber um e-mail com link para redefinir minha senha, **de modo que** eu possa criar uma nova, **porque** isso me ajuda a voltar a acessar minha conta.
 
-#### RF21 – Histórico de Gestos Realizados
+#### RF20 – Histórico de Gestos Realizados
 **Como** usuário, **eu quero** consultar o histórico de gestos realizados, **de modo que** eu veja quais comandos usei e quando, **porque** isso ajuda no acompanhamento e correções.
 
-#### RF22 – Ativar/Desativar Feedback Multimídia
+#### RF21 – Ativar/Desativar Feedback Multimídia
 **Como** usuário, **eu quero** ativar ou desativar feedback visual ou sonoro, **de modo que** eu ajuste a resposta do sistema conforme minha preferência, **porque** isso melhora minha experiência.
 
-#### RF23 – Autenticação por Reconhecimento Facial
+#### RF22 – Autenticação por Reconhecimento Facial
 **Como** usuário, **eu quero** fazer login por reconhecimento facial, **de modo que** o acesso seja automático e seguro, **porque** isso elimina a necessidade de digitar senhas.
 
-#### RF24 – Autenticação por Reconhecimento de Voz
+#### RF23 – Autenticação por Reconhecimento de Voz
 **Como** usuário, **eu quero** fazer login por reconhecimento de voz, **de modo que** o acesso seja mais prático, **porque** isso oferece uma alternativa segura sem senha.
 
-#### RF25 – Tutorial Interativo e Calibração
+#### RF24 – Tutorial Interativo e Calibração
 **Como** um novo usuário, **eu quero** passar por um tutorial interativo na primeira vez que abro o aplicativo, **de modo que** eu aprenda os gestos básicos e possa calibrar a câmera para o meu ambiente, **porque** isso garante que eu consiga usar o sistema corretamente desde o início.
 
-#### RF26 – Feedback de Gesto Inválido
+#### RF25 – Feedback de Gesto Inválido
 **Como** usuário, **eu quero** receber um feedback claro (visual ou sonoro) quando meu gesto não for reconhecido, **de modo que** eu saiba que preciso tentar o gesto novamente, **porque** a ausência de resposta me deixa sem saber se o sistema está travado ou se eu fiz o gesto errado.
 
-#### RF27 – Alteração de Senha
+#### RF26 – Alteração de Senha
 **Como** um usuário logado, **eu quero** acessar meu perfil e alterar minha senha, **de modo que** eu possa manter minha conta segura, **porque** é uma prática de segurança padrão poder atualizar minhas credenciais periodicamente.
 
-#### RF28 – Exclusão de Conta
+#### RF27 – Exclusão de Conta
 **Como** usuário, **eu quero** ter a opção de excluir permanentemente minha conta e todos os meus dados, **de modo que** eu tenha controle total sobre minhas informações pessoais, **porque** isso garante minha privacidade conforme as boas práticas (LGPD).
 
-#### RF29 – Configuração de Sensibilidade
+#### RF28 – Configuração de Sensibilidade
 **Como** usuário, **eu quero** encontrar uma opção nas configurações para ajustar a sensibilidade do reconhecimento de gestos (ex: "Preciso" ou "Relaxado"), **de modo que** o sistema se adapte melhor à minha maneira de gesticular, **porque** isso torna a experiência de uso mais confortável e precisa para mim.
 
-#### RF30 – Seleção de Dispositivo de Câmera
+#### RF39 – Seleção de Dispositivo de Câmera
 **Como** usuário que possui múltiplas câmeras, **eu quero** poder selecionar qual câmera o sistema deve usar, **de modo que** eu possa escolher a que estiver melhor posicionada, **porque** isso me dá flexibilidade e garante a melhor captura de imagem possível.
 
 
